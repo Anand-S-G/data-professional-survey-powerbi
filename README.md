@@ -6,7 +6,8 @@ This project leverages Power BI Desktop to build an interactive, executive-level
 ## Dashboard Preview
 The application interface uses a high-contrast theme to highlight global workforce metrics, developer compensation baselines, and programming language popularity rankings.
 
-![Data Professional Survey Dashboard](CnP_27062026_081153.png)
+![Data Professional Survey Dashboard](![Uploading image.png…]()
+)
 
 ## Core Business Questions Addressed
 The reporting tier isolates key parameters affecting the modern data ecosystem:
