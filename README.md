@@ -6,8 +6,7 @@ This project leverages Power BI Desktop to build an interactive, executive-level
 ## Dashboard Preview
 The application interface uses a high-contrast theme to highlight global workforce metrics, developer compensation baselines, and programming language popularity rankings.
 
-![Data Professional Survey Dashboard](![Uploading image.png…]()
-)
+![Data Professional Survey Dashboard](Screenshot 2026-06-27 081145.png)
 
 ## Core Business Questions Addressed
 The reporting tier isolates key parameters affecting the modern data ecosystem:
@@ -23,7 +22,7 @@ The reporting tier isolates key parameters affecting the modern data ecosystem:
 * **UI/UX Visual Hierarchy:** Configured a minimalist user interface grouping related workforce categories logically with responsive filtering sliders.
 
 ## Repository Contents
-* `Power BI - Final Project.xlsx`: The raw survey data ledger source file containing developer responses.
-* `Data_Professional_Survey_Breakdown.pbix`: The completed Power BI application workbook featuring the data model, Power Query steps, and interactive visuals.
-* `CnP_27062026_081153.png`: High-resolution dashboard screenshot used for repository documentation.
+* `Power BI Project Dataset.xlsx`: The raw survey data ledger source file containing developer responses.
+* `Data_Professional.pbix`: The completed Power BI application workbook featuring the data model, Power Query steps, and interactive visuals.
+* `Screenshot 2026-06-27 081145.png`: High-resolution dashboard screenshot used for repository documentation.
 * `README.md`: Project summary and portfolio documentation.
